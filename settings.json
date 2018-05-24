@@ -20,9 +20,11 @@
         "tab.activeBorder": "#C6FF00",
         "notificationLink.foreground": "#C6FF00"
     },
-    
+
     "materialTheme.cache.workbench.settings": {
         "accent": "Acid Lime",
         "accentPrevious": "Orange"
-    }
+    },
+
+    "editor.cursorStyle": "line-thin"
 }
