@@ -2,8 +2,11 @@
     "editor.fontSize": 15,
 
     "editor.fontFamily": "'Dank Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+
     "workbench.colorTheme": "Material Theme Darker",
+
     "workbench.iconTheme": "eq-material-theme-icons",
+
     "workbench.colorCustomizations": {
         "activityBarBadge.background": "#C6FF00",
         "list.activeSelectionForeground": "#C6FF00",
@@ -17,6 +20,7 @@
         "tab.activeBorder": "#C6FF00",
         "notificationLink.foreground": "#C6FF00"
     },
+    
     "materialTheme.cache.workbench.settings": {
         "accent": "Acid Lime",
         "accentPrevious": "Orange"
