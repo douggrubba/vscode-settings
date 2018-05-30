@@ -28,5 +28,11 @@
         "accentPrevious": "Orange"
     },
 
-    "editor.cursorStyle": "line-thin"
+    "editor.cursorStyle": "line-thin",
+
+    "editor.insertSpaces": true,
+
+    "editor.tabSize": 4,
+
+    "editor.lineHeight": 28
 }
