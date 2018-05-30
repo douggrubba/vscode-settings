@@ -32,7 +32,5 @@
 
     "editor.insertSpaces": true,
 
-    "editor.tabSize": 4,
-
-    "editor.lineHeight": 28
+    "editor.tabSize": 4
 }
