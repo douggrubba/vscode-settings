@@ -5,22 +5,30 @@
 
     "editor.lineHeight": 42,
 
-    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
 
-    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
 
     "workbench.colorCustomizations": {
-        "activityBarBadge.background": "#C6FF00",
-        "list.activeSelectionForeground": "#C6FF00",
-        "list.inactiveSelectionForeground": "#C6FF00",
-        "list.highlightForeground": "#C6FF00",
-        "scrollbarSlider.activeBackground": "#C6FF0050",
-        "editorSuggestWidget.highlightForeground": "#C6FF00",
-        "textLink.foreground": "#C6FF00",
-        "progressBar.background": "#C6FF00",
-        "pickerGroup.foreground": "#C6FF00",
-        "tab.activeBorder": "#C6FF00",
-        "notificationLink.foreground": "#C6FF00"
+        "activityBarBadge.background": "#64FFDA",
+        "list.activeSelectionForeground": "#64FFDA",
+        "list.inactiveSelectionForeground": "#64FFDA",
+        "list.highlightForeground": "#64FFDA",
+        "scrollbarSlider.activeBackground": "#64FFDA50",
+        "editorSuggestWidget.highlightForeground": "#64FFDA",
+        "textLink.foreground": "#64FFDA",
+        "progressBar.background": "#64FFDA",
+        "pickerGroup.foreground": "#64FFDA",
+        "tab.activeBorder": "#64FFDA",
+        "notificationLink.foreground": "#64FFDA",
+        "editorWidget.resizeBorder": "#64FFDA",
+        "editorWidget.border": "#64FFDA",
+        "settings.modifiedItemIndicator": "#64FFDA",
+        "settings.headerForeground": "#64FFDA",
+        "panelTitle.activeBorder": "#64FFDA",
+        "breadcrumb.activeSelectionForeground": "#64FFDA",
+        "menu.selectionForeground": "#64FFDA",
+        "menubar.selectionForeground": "#64FFDA"
     },
 
     "materialTheme.cache.workbench.settings": {
@@ -34,5 +42,11 @@
 
     "editor.tabSize": 4,
 
-    "editor.smoothScrolling": true
+    "editor.smoothScrolling": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "workbench.editor.enablePreview": false,
+    "materialTheme.accent": "Bright Teal"
 }
